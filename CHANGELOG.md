@@ -1,6 +1,6 @@
 # Changelog
 
-## [patch]
+## [3.3.3]
 
 - Added `IndexedMerkleTree` library that implements Indexed Merkle Tree data structure.
 
